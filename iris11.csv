@@ -1,0 +1,121 @@
+District;District eng;Price per sq m
+Академический ;Akademichesky;205702
+Алексеевский ;Alexeyevsky;191495
+Алтуфьевский ;Altufyevsky;147175
+Арбат;Arbat;362197
+Аэропорт;Aeroport;206218
+Бабушкинский ;Babushkinsky;154080
+Басманный ;Basmanny;224197
+Беговой;Begovoy;237475
+Бескудниковский ;Beskudnikovsky;149875
+Бибирево;Bibirevo;147175
+Бирюлёво Восточное;Biryulyovo Vostochnoye;126599
+Бирюлёво Западное;Biryulyovo Zapadnoye;126599
+Богородское;Bogorodskoye;156826
+Братеево;Brateyevo;141559
+Бутырский ;Butyrsky;184756
+Вешняки;Veshnyaki;137797
+Внуково;Vnukovo;131152
+Войковский ;Voykovsky;173096
+Восточное Дегунино;Vostochnoye Degunino;149875
+Восточное Измайлово;Vostochnoye Izmaylovo;153939
+Восточный;Vostochny;139256
+Выхино-Жулебино;Vykhino-Zhulebino;137797
+Гагаринский ;Gagarinsky;247204
+Головинский ;Golovinsky;151010
+Гольяново;Golyanovo;144777
+Даниловский;Danilovsky;183383
+Дмитровский ;Dmitrovsky;149875
+Донской ;Donskoy;261405
+Дорогомилово;Dorogomilovo;248168
+Замоскворечье;Zamoskvorechye;299942
+Западное Дегунино;Zapadnoye Degunino;149875
+Зюзино;Zyuzino;178141
+Зябликово;Zyablikovo;141559
+Ивановское;Ivanovskoye;141358
+Измайлово;Izmaylovo;153939
+Капотня;Kapotnya;140808
+Коньково;Konkovo;192140
+Коптево;Koptevo;173096
+Косино-Ухтомский;Kosino-Ukhtomsky;129535
+Котловка;Kotlovka;183383
+Красносельский ;Krasnoselsky;272025
+Крылатское;Krylatskoye;199274
+Кузьминки;Kuzminki;152912
+Кунцево;Kuntsevo;173180
+Куркино;Kurkino;156906
+Левобережный;Levoberezhny;165895
+Лефортово;Lefortovo;159195
+Лианозово;Lianozovo;144819
+Ломоносовский ;Lomonosovsky;247204
+Лосиноостровский ;Losinoostrovsky;138319
+Люблино;Lyublino;139670
+Марфино;Marfino;158364
+Марьина Роща;Maryinaroshcha;194724
+Марьино;Maryino;140808
+Метрогородок;Metrogorodok;156826
+Мещанский ;Meshchansky;268872
+Митино;Mitino;143811
+Можайский ;Mozhaysky;175503
+Молжаниновский ;Molzhaninovsky;156906
+Москворечье-Сабурово;Moskvorechye-Saburovo;149188
+Нагатино-Садовники;Nagatino-Sadovniki;178983
+Нагатинский Затон;Nagatinsky zaton;178983
+Нагорный ;Nagorny;178141
+Некрасовка;Nekrasovka;129535
+Нижегородский ;Nizhegorodsky;197192
+Новогиреево;Novogireyevo;141358
+Новокосино;Novokosino;139256
+Ново-Переделкино;Novo-Peredelkino;131152
+Обручевский ;Obruchevsky;192140
+Орехово-Борисово Северное;Orekhovo-Borisovo Severnoye;147418
+Орехово-Борисово Южное;Orekhovo-Borisovo Yuzhnoye;147418
+Останкинский ;Ostankinsky;187139
+Отрадное;Otradnoye;146442
+Очаково-Матвеевское;Ochakovo-Matveyevskoye;184451
+Перово;Perovo;154393
+Печатники;Pechatniki;147512
+Покровское-Стрешнево;Pokrovskoye-Streshnevo;183596
+Преображенское;Preobrazhenskoye;190672
+Пресненский ;Presnensky;300701
+Проспект Вернадского;Prospekt Vernadskogo;220061
+Раменки;Ramenki;247204
+Ростокино;Rostokino;187139
+Рязанский ;Ryazansky;143425
+Савёловский ;Savyolovsky;194724
+Свиблово;Sviblovo;181198
+Северное Бутово;Severnoye Butovo;142553
+Северное Измайлово;Severnoye Izmaylovo;144777
+Северное Медведково;Severnoye Medvedkovo;152635
+Северное Тушино;Severnoye Tushino;163034
+Северный;Severny;149875
+Сокол;Sokol;206218
+Соколиная Гора;Sokolinaya gora;171718
+Сокольники;Sokolniki;204111
+Солнцево;Solntsevo;148536
+Строгино;Strogino;170941
+Таганский ;Tagansky;257183
+Тверской ;Tverskoy;352670
+Текстильщики;Tekstilshchiki;152912
+Тёплый Стан;TyoplyStan;143266
+Тимирязевский ;Timiryazevsky;184756
+Тропарёво-Никулино;Troparyovo-Nikulino;187127
+Филёвский Парк;Filyovsky park;198383
+Фили-Давыдково;Fili-Davydkovo;175503
+Хамовники;Khamovniki;320254
+Ховрино;Khovrino;165895
+Хорошёво-Мнёвники;Khoroshyovo-Mnyovniki;192026
+Хорошёвский ;Khoroshyovsky;194304
+Царицыно;Tsaritsyno;149188
+Черёмушки;Cheryomushki;202142
+Чертаново Северное;Chertanovo Severnoye;161999
+Чертаново Центральное;Chertanovo Tsentralnoye;161999
+Чертаново Южное;Chertanovo Yuzhnoye;150729
+Щукино;Shchukino;183596
+Южное Бутово;Yuzhnoye Butovo;126272
+Южное Медведково;Yuzhnoye Medvedkovo;154080
+Южное Тушино;Yuzhnoye Tushino;163034
+Южнопортовый ;Yuzhnoportovy;176143
+Якиманка;Yakimanka;373596
+Ярославский ;Yaroslavsky;138319
+Ясенево;Yasenevo;149166
