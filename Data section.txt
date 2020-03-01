@@ -18,3 +18,22 @@ Analysis will be held in table format in dataframes and folium maps.
 
 In overall i plan that clustering Foursquare data on Moscow districts on the one side and socioeconomic indicators groupings on the other side 
 will give a sufficient characteristic of very Moscow district.
+
+As for data I'm going to use, here is my workplan:
+-to do web-scrapping with 'beautifulsoup' from two web-sites. i have already noticed the web-pages i need to scrap have a very 
+'dirty' code, not as we saw in wikipedia page for Toronto neigborhoods. So that i expect to spent quiate a big amount of time to clean 
+the data. I have already prepared for myself such code as 'table1.replace(' ','')', 'table2.split("\n")', 'df.drop'
+- as i'm working with Russian data i need to have some translation. I will try to use transliteration modules to convert Russian names of
+districts ('transliterate', 'google translate'). The other way is to translate them using 'join/merge method' of manually. As i can do it
+manually, i need to download .csv file with the help of 'project_lib' extension
+- then i need geographic coordinates for ever district. I will use 'geopy.geocoders' extension and import 'Nominatim'
+- as i will get three separate tables with data, i need to merge them. I will merge them using the column of District name in English
+- i'm going to add new columns with characteristics of socioeconomic indicators to easen the analysis, e.g. 'residential areas' or 
+'areas mostly for work' instead of percentages as integers
+- i will use the same data from Foursquare as we saw in recent lab. I'm planning to analyze the overall number of venues to get a big picture
+of what is going on in Moscow and in which district
+- then there will be imports of 'folium' extension to build the map and k-means to do clustering. The difference between example from the
+lab and my research is that i'm going to get the data of district ('neighborhood') name not from json file but out of web-scrapping and 
+usage of 'Nominatim' extension
+- in the end i'm going to match the data i've obtained during clustering analysis and comparisons of socioeconomic indicators i've described
+earlier.
