@@ -1,6 +1,8 @@
 In my project I’m going to analyze data on Moscow districts. I would like to analyze Moscow foursquare data on macro level 
 as well as to analyze some socioeconomic indicators related to these districts (population, real estate price, 
-office,work/residential district). 
+office,work/residential district). After i get information on socioeconomic indicators in the format i need, as well as i conduct 
+the analysis of foursquare data using clustering, i'm going to integrate foursquare results analysis with socioeconomic indicators 
+in order to get explanations why in cartain districts such a venues are the most popular.
 
 I hope that economic indicators will be helpful to explain information on foursquare venues that are typical for certain district. 
 The information I get will be helpful to find similarities among districts, benchmark the most popular districts venues and 
