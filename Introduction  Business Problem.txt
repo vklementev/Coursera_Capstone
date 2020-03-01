@@ -1,0 +1,17 @@
+In my project I’m going to analyze data on Moscow districts. I would like to analyze Moscow foursquare data on macro level 
+as well as to analyze some socioeconomic indicators related to these districts (population, real estate price, 
+office,work/residential district). 
+
+I hope that economic indicators will be helpful to explain information on foursquare venues that are typical for certain district. 
+The information I get will be helpful to find similarities among districts, benchmark the most popular districts venues and 
+elicit some new business opportunities based on absence/presence of venues in similar districts. I also hope that combination of 
+some statistics information with Foursquare data would be unique to some extent.
+
+Interested parties for this research could be persons who study city environments to develop their business (e.g. to find two 
+districts with similar socio-economic features and reveal that some venues that are very popular in one district could also be 
+popular for another same one), locals who will confirm their intuitive knowledge they have already got because they are living 
+in these district for a while and see that e.g. coffee shops are very popular in some district and any person who would like to 
+learn some features of Moscow and how different its districts are. Interested parties for this research could also be sociologists 
+who study city environments. Nowadays Moscow is rapidly changing and there is high attention for urban studies there. There are 
+119 districts that I’m going to analyze and I hope some insights into this area will make a little contribution into knowledge of 
+current state of affairs in Moscow.

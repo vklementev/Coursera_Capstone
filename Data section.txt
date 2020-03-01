@@ -1,0 +1,20 @@
+For my research I choose the following socioeconomic indicators to analyze: 
+- population of every district (Source – Wikipedia, there is a list of Moscow districts and their population, in Russian only, 
+https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%D0%BE%D0%B2_%D0%B8_%D0%BF%D0%BE%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B9_%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D1%8B), 
+- real estate prices per sq m for every district (there is web-site with information in Russian only, https://www.irn.ru/rating/moscow/), 
+- the estimation of whether the district in mostly consists of office and workplaces or is residential area (there was a research made 
+by Yandex where they estimate what percentage of people living in certain district constantly and what percentage are moving daily to 
+work and back home, https://cache-spb02.cdn.yandex.net/download.yandex.ru/company/figures/2016/home_work/districts_f.html). 
+
+To get population and real estate prices data I’m going to use web scrapping, for work/home data I collect information manually. 
+I was trying to translate names of districts in English using Jupyter commands but it was in vain so that I made this translation manually. 
+
+This data will help to sort district on business/residential and sort them based on real estate prices and its population. I hope this 
+information will be helpful to explain why certain types of Foursquare venues are popular in some districts e.g. I expect supermarkets to be 
+popular in the residential areas whether in business locations coffee shops or restaurants will be on the top. There will be information on 
+119 districts of Moscow and more then 2,500 foursquare venues to analyze. Clustering and closeness in socioeconomic features i've listed 
+will show how districts are similar and different among each other and what business needs could be implemented there. 
+Analysis will be held in table format in dataframes and folium maps.
+
+In overall i plan that clustering Foursquare data on Moscow districts on the one side and socioeconomic indicators groupings on the other side 
+will give a sufficient characteristic of very Moscow district.
