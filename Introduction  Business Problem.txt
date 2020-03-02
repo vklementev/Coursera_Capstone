@@ -1,19 +1,39 @@
-In my project I’m going to analyze data on Moscow districts. I would like to analyze Moscow foursquare data on macro level 
-as well as to analyze some socioeconomic indicators related to these districts (population, real estate price, 
-office,work/residential district). After i get information on socioeconomic indicators in the format i need, as well as i conduct 
-the analysis of foursquare data using clustering, i'm going to integrate foursquare results analysis with socioeconomic indicators 
-in order to get explanations why in cartain districts such a venues are the most popular.
+As the topic for our project should be related to "battle of neighborhoods", I've decided to compare districts of Moscow, Russia. 
+There are 119 districts and I'm going to analyze the following parameters for every district. In my analysis I would like 
+to analyze Moscow foursquare data on macro level as well as to analyze some socioeconomic indicators related to these districts 
+(i think the most appropriate indicators could be population, population density, real estate price, work/residential district).
+Using this information, I'm going to analyze Moscow districts from two points - my own analysis of selected data and analysis of 
+foursquare data. 
+
+As a result, my work will consist of three parts:
+1. use of my sources of statistic inforation for every district of Moscow: data extraction from web-sources i will find relevant 
+for the analysis, cleaning and preparation of data. Finally for this point, I will group districts based on their similarities on 
+population density real estate prices (e.g. groups of 'cheap' real estate less than 2.500 US dollars, medium prices up to 
+4.000 US dollars, expensive housing with prices above 4.000 US dollars) and work/residential feature of every district (e.g. working 
+district could be considered as the one where 60% of population live constantly and 40% are people who come there for workin hours 
+from other parts of Moscow, however - this estimation is intuitive, i chose this proportion as there is a share of people who work 
+and live at the same district). 
+2.analysis of foursquare venues in Moscow and clustering them as we did in manhattan neighborhoods lab. 
+3. after i get information on socioeconomic indicators in the format i need, as well as i conduct 
+the analysis of foursquare data using clustering, i'm going to integrate foursquare results analysis with clustering i've got on
+socioeconomic indicators analysis. As a result, i could get explanation why certain venues in some districts are the most popular.
+I will formulate certain hypotheses and prove them using the analysis results from point 1 and 2.
+
 
 I hope that economic indicators will be helpful to explain information on foursquare venues that are typical for certain district. 
 The information I get will be helpful to find similarities among districts, benchmark the most popular districts venues and 
 elicit some new business opportunities based on absence/presence of venues in similar districts. I also hope that combination of 
 some statistics information with Foursquare data would be unique to some extent.
 
-Interested parties for this research could be persons who study city environments to develop their business (e.g. to find two 
+I understand that the results of my work would an overview as there will be no any advices in what neighboor it is fine to open a 
+new coffee shop. However, my research could help to understand the overall situation in every Moscow district and find out what 
+business opportunities (related to eating/entertainment business) are hidden in every district of Moscow (e.g. to find two 
 districts with similar socio-economic features and reveal that some venues that are very popular in one district could also be 
-popular for another same one), locals who will confirm their intuitive knowledge they have already got because they are living 
-in these district for a while and see that e.g. coffee shops are very popular in some district and any person who would like to 
-learn some features of Moscow and how different its districts are. Interested parties for this research could also be sociologists 
-who study city environments. Nowadays Moscow is rapidly changing and there is high attention for urban studies there. There are 
-119 districts that I’m going to analyze and I hope some insights into this area will make a little contribution into knowledge of 
-current state of affairs in Moscow.
+popular for another same one). 
+
+So that the results of my research will be helpful for people who study city environments to develop their business as well as 
+people studying what Moscow district to move based on its features I've got in this research (by the way Moscow is the most dynamic 
+Russian location right now and there is huge migration inflow out of other country regions), interested parties for this research 
+could also be sociologists who study city environments. Nowadays Moscow is rapidly changing and there is high attention for urban 
+studies there. I hope some insights into this area will make a little contribution into knowledge of current state of affairs 
+in Moscow.
